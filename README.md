@@ -1,7 +1,3 @@
-==========================================================
-AUTHOR: Dan Skøtt Petersen
-==========================================================
-
 # C++ - Polynomials
 This is the solution to a three day assignment to implement a program in C++ that can perform various operations on polynomials. For detailed requirements, see Assignments.pdf.
 
